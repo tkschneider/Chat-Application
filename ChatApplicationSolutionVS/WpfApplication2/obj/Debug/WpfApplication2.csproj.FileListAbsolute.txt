@@ -1,0 +1,20 @@
+c:\users\tkschneider\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\tkschneider\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\tkschneider\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\tkschneider\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+C:\Users\tkschneider\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\ClientServerDialog.baml
+C:\Users\tkschneider\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\ClientServerDialog.g.cs
+C:\Users\tkschneider\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\tkschneider\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\tkschneider\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\tkschneider\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\tkschneider\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+C:\Users\tkschneider\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\tkschneider\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\tkschneider\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\tkschneider\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\tkschneider\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\IPWindow.baml
+C:\Users\tkschneider\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\IPWindow.g.cs
+C:\Users\Tim\Desktop\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\Tim\Desktop\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\Tim\Desktop\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.pdb

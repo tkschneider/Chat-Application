@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfApplication2.ClientServerDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ClientServerDialog" Height="300" Width="300"
+        SizeToContent="WidthAndHeight" Closing="ShowIPWindow" >
+
+    <StackPanel Margin="30, 30, 30 ,30 " >
+        <Border BorderBrush="Gray" BorderThickness="2" Margin="50, 0, 50, 0">
+            <GroupBox Header="Select Your Role" VerticalAlignment="Top" HorizontalAlignment="Center" >
+                <StackPanel>
+                    <RadioButton x:Name="ServerButton" Content="Server"  Padding="10"></RadioButton>
+                    <RadioButton x:Name="ClientButton" Content="Client"  Padding="10"></RadioButton>
+                    <Button VerticalAlignment="Bottom" HorizontalAlignment="Center" Content="OK" Margin="0, 15, 0, 0" Click="OnClick"></Button>
+                </StackPanel>
+
+            </GroupBox>
+        </Border>
+
+    </StackPanel>
+
+</Window>
